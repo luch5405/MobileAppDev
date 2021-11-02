@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
                 image.setImageResource(R.drawable.turkey)
             }
             else -> {
-                outputTextVar.setText("I have never heard of that holiday")
+                outputTextVar.setText("I have never heard of " + input + "!")
                 image.setImageResource(0)
             }
 
