@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 7</string>
+    <string name="title">Puppy Day Care Sign-In</string>
+    <string name="radBtn1">Koa</string>
+    <string name="radBtn2">Jasper</string>
+    <string name="radBtn3">Bird</string>
+    <string name="radioBtn4">Kiera</string>
+    <string name="allergies">Allergies</string>
+    <string name="diet">Diet</string>
+    <string name="fixed">Fixed</string>
+    <string name="potty">Potty Trained</string>
+    <string name="friendly">Friendly</string>
+    <string name="checkin">Check In</string>
+    <string name="outputText" />
+
+    <string-array name="spinner">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
