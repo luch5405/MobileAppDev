@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gameTest_Movement</string>
+    <string name="coords">X:0 Y:0</string>
+</resources>
