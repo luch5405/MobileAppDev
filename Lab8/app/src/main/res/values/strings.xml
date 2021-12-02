@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lab 7</string>
+    <string name="title">Puppy Day Care Finder</string>
+    <string name="radBtn1">Koa</string>
+    <string name="radBtn2">Jasper</string>
+    <string name="radBtn3">Bird</string>
+    <string name="radioBtn4">Kiera</string>
+    <string name="allergies">Allergies</string>
+    <string name="diet">Diet</string>
+    <string name="fixed">Fixed</string>
+    <string name="potty">Potty Trained</string>
+    <string name="gender">Male</string>
+    <string name="checkin">Submit</string>
+    <string name="outputText" />
+    <string name="findSitter">Find Sitter</string>
+    <string name="sitterOutputText" />
+
+    <string-array name="spinner">
+        <item>XSmall: 10lbs</item>
+        <item>Small: 10lbs to 30lbs</item>
+        <item>Medium: 30lbs to 50lbs</item>
+        <item>Large: 50lbs to 100lbs</item>
+        <item>XLarge: 100lbs</item>
+
+    </string-array>
+    <string name="title_activity_daycare">DaycareActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dayCareSug" />
+    <string name="toMap">Show Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
